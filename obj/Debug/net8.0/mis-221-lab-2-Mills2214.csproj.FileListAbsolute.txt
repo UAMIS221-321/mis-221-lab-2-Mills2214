@@ -1,0 +1,15 @@
+/Users/stephenmills/Documents/Source/Mis_221_repos/mis-221-lab-2-Mills2214/obj/Debug/net8.0/mis-221-lab-2-Mills2214.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stephenmills/Documents/Source/Mis_221_repos/mis-221-lab-2-Mills2214/obj/Debug/net8.0/mis-221-lab-2-Mills2214.AssemblyInfoInputs.cache
+/Users/stephenmills/Documents/Source/Mis_221_repos/mis-221-lab-2-Mills2214/obj/Debug/net8.0/mis-221-lab-2-Mills2214.AssemblyInfo.cs
+/Users/stephenmills/Documents/Source/Mis_221_repos/mis-221-lab-2-Mills2214/obj/Debug/net8.0/mis-221-lab-2-Mills2214.csproj.CoreCompileInputs.cache
+/Users/stephenmills/Documents/Source/Mis_221_repos/mis-221-lab-2-Mills2214/obj/Debug/net8.0/mis-221-lab-2-Mills2214.sourcelink.json
+/Users/stephenmills/Documents/Source/Mis_221_repos/mis-221-lab-2-Mills2214/bin/Debug/net8.0/mis-221-lab-2-Mills2214
+/Users/stephenmills/Documents/Source/Mis_221_repos/mis-221-lab-2-Mills2214/bin/Debug/net8.0/mis-221-lab-2-Mills2214.deps.json
+/Users/stephenmills/Documents/Source/Mis_221_repos/mis-221-lab-2-Mills2214/bin/Debug/net8.0/mis-221-lab-2-Mills2214.runtimeconfig.json
+/Users/stephenmills/Documents/Source/Mis_221_repos/mis-221-lab-2-Mills2214/bin/Debug/net8.0/mis-221-lab-2-Mills2214.dll
+/Users/stephenmills/Documents/Source/Mis_221_repos/mis-221-lab-2-Mills2214/bin/Debug/net8.0/mis-221-lab-2-Mills2214.pdb
+/Users/stephenmills/Documents/Source/Mis_221_repos/mis-221-lab-2-Mills2214/obj/Debug/net8.0/mis-221-lab-2-Mills2214.dll
+/Users/stephenmills/Documents/Source/Mis_221_repos/mis-221-lab-2-Mills2214/obj/Debug/net8.0/refint/mis-221-lab-2-Mills2214.dll
+/Users/stephenmills/Documents/Source/Mis_221_repos/mis-221-lab-2-Mills2214/obj/Debug/net8.0/mis-221-lab-2-Mills2214.pdb
+/Users/stephenmills/Documents/Source/Mis_221_repos/mis-221-lab-2-Mills2214/obj/Debug/net8.0/mis-221-lab-2-Mills2214.genruntimeconfig.cache
+/Users/stephenmills/Documents/Source/Mis_221_repos/mis-221-lab-2-Mills2214/obj/Debug/net8.0/ref/mis-221-lab-2-Mills2214.dll
