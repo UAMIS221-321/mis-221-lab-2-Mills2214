@@ -4,7 +4,7 @@ const double TOPPING_COST = 0.55;
 const double DISCOUNT = 0.1;
 
 int numOfSandwiches = 0;
-int numOfToppings = 0;
+int numOfToppings = 0;    //com
 double tipAmmount = 0;
 
 Console.WriteLine("Enter number of sandwhiches: ");
@@ -26,7 +26,7 @@ toppingCost = TOPPING_COST * numOfToppings;
 double cost = 0;
 cost = sandwhichCost + toppingCost;
 
-double order = 0;
-order = cost * (1 - DISCOUNT) + tipAmmount;
+double orderCost = 0;
+orderCost = cost * (1 - DISCOUNT) + tipAmmount;
 
-Console.WriteLine("Order Total is:" + order);
+Console.WriteLine("orderCost Total is:" + orderCost);
