@@ -7,10 +7,10 @@ int numOfSandwiches = 0;
 int numOfToppings = 0;    //com
 double tipAmmount = 0;
 
-Console.WriteLine("Enter number of sandwhiches: ");
+Console.WriteLine("How many sandwhiches would you like to purchase: ");
 numOfSandwiches = int.Parse(Console.ReadLine());
 
-Console.WriteLine("Enter number of toppings: ");
+Console.WriteLine("Please enter number of toppings: ");
 numOfToppings = int.Parse(Console.ReadLine());
 
 Console.WriteLine("Enter tip ammount: ");
@@ -27,6 +27,6 @@ double cost = 0;
 cost = sandwhichCost + toppingCost;
 
 double orderCost = 0;
-orderCost = cost * (1 - DISCOUNT) + tipAmmount;
+orderCost = Math.Round(cost * (1 - DISCOUNT) + tipAmmount, 2);
 
 Console.WriteLine("orderCost Total is:" + orderCost);
